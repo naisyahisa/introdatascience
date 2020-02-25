@@ -1,2 +1,2 @@
 # introdatascience
-WIA2005 Introduction to Data Science
+WIE2003 Introduction to Data Science
